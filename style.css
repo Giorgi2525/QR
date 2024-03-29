@@ -1,0 +1,13 @@
+.input-group-text {
+  cursor: pointer;
+}
+
+img {
+  width: 100%;
+  max-width: 500px !important;
+  max-height: 500px;
+  object-fit: contain;
+  margin: auto;
+  display: block;
+  cursor: pointer;
+}
